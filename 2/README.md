@@ -13,4 +13,5 @@ AUTH_TOKEN=<auth_token>
 <br/><br/>
 
 <br/>
-![image](https://github.com/user-attachments/assets/207375af-76f9-4bab-8b63-16610cc66206)
+![image](https://github.com/user-attachments/assets/5bb41f92-2ef5-4774-a0d3-26301e111aae)
+
