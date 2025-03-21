@@ -13,6 +13,7 @@ AUTH_TOKEN=<auth_token>
 - <br/><br/>
 OUTPUT FOR /numbers/e:
 <br/>
-![image](https://github.com/user-attachments/assets/0bd41aad-f952-4268-a812-a8ed62918626)
-![image](https://github.com/user-attachments/assets/945781a5-07bf-462d-9d16-b83eb21a34f5)
+
+![image](https://github.com/user-attachments/assets/68f4716d-37ca-427e-b4ba-ae4e1981e6e8)
+
 
