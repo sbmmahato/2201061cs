@@ -11,7 +11,7 @@ AUTH_TOKEN=<auth_token>
 - run localhost at port 9876
 
 - <br/><br/>
-OUTPUT FOR /numbers/e:
+
 <br/>
 
 ![image](https://github.com/user-attachments/assets/68f4716d-37ca-427e-b4ba-ae4e1981e6e8)
