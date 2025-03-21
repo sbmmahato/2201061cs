@@ -9,3 +9,8 @@ AUTH_TOKEN=<auth_token>
 
 - npm start
 - run localhost at port 9876
+
+- <br/><br/>
+OUTPUT FOR /numbers/e:
+<br/>
+![image](https://github.com/user-attachments/assets/0bd41aad-f952-4268-a812-a8ed62918626)
