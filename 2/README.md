@@ -11,6 +11,6 @@ AUTH_TOKEN=<auth_token>
 - run localhost at port 3000
 
 <br/><br/>
-OUTPUT FOR /users:
+
 <br/>
 ![image](https://github.com/user-attachments/assets/207375af-76f9-4bab-8b63-16610cc66206)
